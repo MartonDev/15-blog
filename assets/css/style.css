@@ -118,7 +118,14 @@ h1 {
 
 }
 
-.header .account i {
+.header .account a {
+
+  color: #000;
+  text-decoration: none;
+
+}
+
+.header .account a i {
 
   font-size: 20px;
 
