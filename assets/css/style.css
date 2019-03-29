@@ -355,3 +355,20 @@ h1 {
   font-weight: 400 !important;
 
 }
+
+@media only screen and (max-width: 768px) {
+
+  .main .posts {
+
+    width: 100%;
+
+  }
+
+  .main .fixed-elements {
+
+    width: 0%;
+    display: none;
+
+  }
+
+}
